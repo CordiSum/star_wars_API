@@ -1,0 +1,7 @@
+**/.idea/
+/**/node_modules/
+/**/package-lock.json
+
+app/dev
+app/src/fonts
+Star Wars build/fonts/
